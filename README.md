@@ -21,3 +21,5 @@ Hospital Navigation: Find your way around Elshefa Hospital effortlessly with int
 Health Tips: Access valuable health tips and articles to help you make informed decisions about your well-being.
 
 Elshefa Hospital is committed to providing top-tier healthcare services, and the Smart Doctor App is our latest initiative to make your healthcare experience even more convenient and efficient.
+![loginPage-portrait](https://github.com/YousefHanafy-SW-ENG/Smart_Doctor/assets/74376063/7aafebf3-0b0c-409b-95ed-b8c15a7589a5)
+![patientsPage-portrait](https://github.com/YousefHanafy-SW-ENG/Smart_Doctor/assets/74376063/e847a2aa-69b4-4dcf-b708-e585d06e1c56)
